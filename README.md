@@ -9,5 +9,6 @@ with your entities.
 
 ## Documentation for the library
 
-*World
-  *The supreme data structure that represents the entire ECS.
+* World
+  * The supreme data structure that represents the entire ECS.
+  
